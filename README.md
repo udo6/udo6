@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm IO</h1>
+<h1 align="center">Hi 👋, I'm udo</h1>
 <h3 align="center">A passionate full-stack Developer.</h3>
 
-- 🌱 I’m currently learning **EntityframeworkCore**
+- 🌱 I’m currently learning **C++**
 
-- 💬 Ask me about **Vue**
+- 💬 Ask me about **C# & Js/Ts**
 
 - ⚡ Fun fact **China censored the word for "censorship."**
 
