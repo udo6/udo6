@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 💬 Ask me about **C# & Js/Ts**
+- 💬 Ask me about **C# & Typescript**
 
 - ⚡ Fun fact **China censored the word for "censorship."**
 
